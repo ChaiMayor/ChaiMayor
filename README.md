@@ -2,7 +2,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChaiMayor)](https://github.com/anuraghazra/github-readme-stats)
 
-<!--START SECTION:waka-->
+<!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
 <!--
